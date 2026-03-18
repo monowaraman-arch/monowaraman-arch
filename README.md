@@ -23,7 +23,7 @@ I like working on both frontend and backend development, integrating APIs, manag
 
 - 🌱 Currently exploring **Data Science** and **Machine Learning**
 - 💻 Building **full stack web applications**
-- 🔧 Interested in **API integration, backend logic, and database management**
+- 🔧 Interested in **API integration, backend logic, Artificial Intelligence and database management**
 - 📊 Passionate about **data-driven solutions and intelligent systems**
 - ⚡ Always learning new technologies and improving my development skills
 
@@ -42,7 +42,7 @@ I like working on both frontend and backend development, integrating APIs, manag
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nodejs,express,mongodb,mysql,firebase,git,github,python,java,cpp,c" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nodejs,mongodb,mysql,git,github,python,java,cpp,c" />
 
 </div>
 

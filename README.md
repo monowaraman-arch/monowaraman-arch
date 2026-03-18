@@ -42,7 +42,7 @@ I like working on both frontend and backend development, integrating APIs, manag
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nodejs,express,mongodb,firebase,git,github,python,java,cpp,c" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nodejs,express,mongodb,mysql,firebase,git,github,python,java,cpp,c" />
 
 </div>
 

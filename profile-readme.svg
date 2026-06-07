@@ -1,0 +1,132 @@
+<svg width="1200" height="1500" viewBox="0 0 1200 1500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#63ffb4" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="orbA" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#63ffb4" stop-opacity="0.13"/>
+      <stop offset="70%" stop-color="#63ffb4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbB" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7850ff" stop-opacity="0.10"/>
+      <stop offset="75%" stop-color="#7850ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="lineGlow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#63ffb4" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#63ffb4"/>
+      <stop offset="100%" stop-color="#63ffb4" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: "Space Mono", "Consolas", monospace; }
+      .syne { font-family: "Arial Black", "Arial", sans-serif; font-weight: 800; }
+      .label { font-family: "Space Mono", "Consolas", monospace; font-size: 16px; letter-spacing: 8px; fill: #63ffb4; font-weight: 700; }
+      .small { font-family: "Space Mono", "Consolas", monospace; font-size: 18px; fill: rgba(255,255,255,0.64); }
+      .muted { fill: rgba(255,255,255,0.45); }
+      .green { fill: #63ffb4; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="1500" fill="#0a0a0f"/>
+  <rect width="1200" height="1500" fill="url(#grid)"/>
+  <circle cx="1125" cy="70" r="260" fill="url(#orbA)"/>
+  <circle cx="50" cy="1450" r="230" fill="url(#orbB)"/>
+
+  <g transform="translate(120 70)">
+    <text x="480" y="76" text-anchor="middle" class="label">HELLO, WORLD!</text>
+
+    <text x="92" y="190" class="syne" font-size="92" fill="#63ffb4">Mono</text>
+    <text x="422" y="190" class="syne" font-size="92" fill="#ffffff">war</text>
+    <text x="650" y="190" class="syne" font-size="88" fill="none" stroke="rgba(255,255,255,0.42)" stroke-width="2">Aman</text>
+
+    <text x="480" y="252" text-anchor="middle" class="mono" font-size="20" letter-spacing="8" fill="rgba(255,255,255,0.46)">
+      FULL STACK DEVELOPER   -   DATA SCIENCE AND MACHINE LEARNING EXPLORER
+    </text>
+
+    <rect x="66" y="302" width="828" height="56" rx="4" fill="#63ffb4" fill-opacity="0.06" stroke="#63ffb4" stroke-opacity="0.18"/>
+    <text x="94" y="338" class="mono" font-size="20" fill="#c8f0dc">building data-driven web experiences and focused on Data Science and Machine Learning</text>
+    <rect x="874" y="314" width="3" height="32" fill="#63ffb4"/>
+
+    <line x1="0" y1="412" x2="960" y2="412" stroke="#63ffb4" stroke-opacity="0.14"/>
+    <rect x="390" y="411" width="180" height="2" fill="url(#lineGlow)"/>
+
+    <g transform="translate(0 492)">
+      <text x="0" y="0" class="label" font-size="15">ABOUT</text>
+      <line x1="110" y1="-5" x2="960" y2="-5" stroke="#63ffb4" stroke-opacity="0.28"/>
+      <rect x="0" y="42" width="960" height="216" rx="4" fill="#ffffff" fill-opacity="0.022" stroke="#ffffff" stroke-opacity="0.07"/>
+      <rect x="0" y="42" width="3" height="216" rx="2" fill="#63ffb4"/>
+      <text x="38" y="88" class="small">
+        <tspan>I'm a </tspan><tspan class="green">creative full stack developer</tspan><tspan> with a strong interest in </tspan><tspan class="green">data science and machine</tspan>
+        <tspan x="38" dy="38" class="green">learning</tspan><tspan>. I enjoy building modern, responsive, and practical web applications while exploring</tspan>
+        <tspan x="38" dy="38">how </tspan><tspan class="green">data-driven systems</tspan><tspan> can solve real-world problems. I work across frontend and backend,</tspan>
+        <tspan x="38" dy="38">integrating APIs, managing databases, and continuously sharpening my problem-solving skills</tspan>
+        <tspan x="38" dy="38">through coding and experimentation.</tspan>
+      </text>
+    </g>
+
+    <g transform="translate(0 825)">
+      <text x="0" y="0" class="label" font-size="15">CONNECT</text>
+      <line x1="128" y1="-5" x2="960" y2="-5" stroke="#63ffb4" stroke-opacity="0.28"/>
+      <g class="mono" font-size="15" fill="rgba(255,255,255,0.58)">
+        <a href="https://monowaraman-portfolio.web.app/">
+          <rect x="0" y="32" width="146" height="42" rx="3" fill="#ffffff" fill-opacity="0.024" stroke="#ffffff" stroke-opacity="0.10"/>
+          <circle cx="26" cy="53" r="5" fill="currentColor"/>
+          <text x="42" y="59">Portfolio</text>
+        </a>
+        <a href="https://www.linkedin.com/in/monowar-aman-6647342ab/">
+          <rect x="160" y="32" width="138" height="42" rx="3" fill="#ffffff" fill-opacity="0.024" stroke="#ffffff" stroke-opacity="0.10"/>
+          <circle cx="186" cy="53" r="5" fill="currentColor"/>
+          <text x="202" y="59">LinkedIn</text>
+        </a>
+        <a href="mailto:monowaraman@gmail.com">
+          <rect x="312" y="32" width="108" height="42" rx="3" fill="#ffffff" fill-opacity="0.024" stroke="#ffffff" stroke-opacity="0.10"/>
+          <circle cx="338" cy="53" r="5" fill="currentColor"/>
+          <text x="354" y="59">Gmail</text>
+        </a>
+        <rect x="434" y="32" width="136" height="42" rx="3" fill="#ffffff" fill-opacity="0.024" stroke="#ffffff" stroke-opacity="0.10"/>
+        <circle cx="460" cy="53" r="5" fill="currentColor"/>
+        <text x="476" y="59">Facebook</text>
+        <rect x="584" y="32" width="148" height="42" rx="3" fill="#ffffff" fill-opacity="0.024" stroke="#ffffff" stroke-opacity="0.10"/>
+        <circle cx="610" cy="53" r="5" fill="currentColor"/>
+        <text x="626" y="59">Instagram</text>
+      </g>
+    </g>
+
+    <g transform="translate(0 990)">
+      <text x="0" y="0" class="label" font-size="15">WHAT I'M UP TO</text>
+      <line x1="218" y1="-5" x2="960" y2="-5" stroke="#63ffb4" stroke-opacity="0.28"/>
+      <g class="mono" font-size="15">
+        <rect x="0" y="34" width="470" height="82" rx="4" fill="#ffffff" fill-opacity="0.024" stroke="#ffffff" stroke-opacity="0.07"/>
+        <text x="22" y="66" fill="rgba(255,255,255,0.90)" font-weight="700">Currently Learning</text>
+        <text x="22" y="94" fill="rgba(255,255,255,0.62)">Data Science &amp; Machine Learning fundamentals</text>
+
+        <rect x="490" y="34" width="470" height="82" rx="4" fill="#ffffff" fill-opacity="0.024" stroke="#ffffff" stroke-opacity="0.07"/>
+        <text x="512" y="66" fill="rgba(255,255,255,0.90)" font-weight="700">Building</text>
+        <text x="512" y="94" fill="rgba(255,255,255,0.62)">Full stack web applications - modern and real-world</text>
+
+        <rect x="0" y="132" width="470" height="82" rx="4" fill="#ffffff" fill-opacity="0.024" stroke="#ffffff" stroke-opacity="0.07"/>
+        <text x="22" y="164" fill="rgba(255,255,255,0.90)" font-weight="700">Exploring</text>
+        <text x="22" y="192" fill="rgba(255,255,255,0.62)">API integration, backend logic, AI systems</text>
+
+        <rect x="490" y="132" width="470" height="82" rx="4" fill="#ffffff" fill-opacity="0.024" stroke="#ffffff" stroke-opacity="0.07"/>
+        <text x="512" y="164" fill="rgba(255,255,255,0.90)" font-weight="700">Passionate About</text>
+        <text x="512" y="192" fill="rgba(255,255,255,0.62)">Data-driven and intelligent automated systems</text>
+      </g>
+    </g>
+
+    <g transform="translate(0 1270)">
+      <text x="0" y="0" class="label" font-size="15">SKILLS &amp; TOOLS</text>
+      <line x1="206" y1="-5" x2="960" y2="-5" stroke="#63ffb4" stroke-opacity="0.28"/>
+      <g class="mono" font-size="15">
+        <line x1="0" y1="38" x2="960" y2="38" stroke="#ffffff" stroke-opacity="0.07"/>
+        <text x="20" y="74" fill="#63ffb4" font-weight="700">Frontend</text>
+        <text x="220" y="74" fill="rgba(255,255,255,0.62)">React   HTML5   CSS3   JavaScript   Tailwind</text>
+        <line x1="0" y1="100" x2="960" y2="100" stroke="#ffffff" stroke-opacity="0.07"/>
+        <text x="20" y="136" fill="#63ffb4" font-weight="700">Backend</text>
+        <text x="220" y="136" fill="rgba(255,255,255,0.62)">Node.js   Express   Python   REST APIs</text>
+        <line x1="0" y1="162" x2="960" y2="162" stroke="#ffffff" stroke-opacity="0.07"/>
+        <text x="20" y="198" fill="#63ffb4" font-weight="700">Data &amp; AI</text>
+        <text x="220" y="198" fill="rgba(255,255,255,0.62)">Pandas   NumPy   Scikit-learn   Matplotlib</text>
+      </g>
+    </g>
+  </g>
+</svg>

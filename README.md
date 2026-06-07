@@ -5,7 +5,7 @@
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=4250&pause=1500&color=C8F0DC&center=true&vCenter=true&width=720&lines=building+data-driven+web+experiences...;focused+on+Data+Science+and+Machine+Learning;full+stack+%7C+APIs+%7C+databases+%7C+ML+systems" alt="Typing SVG" />
 </div>
----
+
  
 ## About
  
@@ -53,7 +53,6 @@ through coding and experimentation.
  
 <div align="center">
 | 🗂️ 13+ Projects Built | 📝 100+ Commits This Year | ☕ 512+ Cups of Coffee |
-|:---:|:---:|:---:|
  
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=11&duration=2000&pause=500&color=63FFB4&center=true&vCenter=true&width=800&lines=React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+MongoDB+%C2%B7+Machine+Learning+%C2%B7+REST+APIs+%C2%B7+Data+Science+%C2%B7+Docker+%C2%B7+Full+Stack+%C2%B7+JavaScript" alt="Skills ticker" />

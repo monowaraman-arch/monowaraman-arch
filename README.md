@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Interest-Data%20Science-orange?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Learning-Machine%20Learning-success?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </div>
